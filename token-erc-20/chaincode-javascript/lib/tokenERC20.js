@@ -13,10 +13,10 @@ const balancePrefix = 'balance';
 const allowancePrefix = 'allowance';
 
 // Define key names for options
-const nameKey = 'name';
-const symbolKey = 'symbol';
-const decimalsKey = 'decimals';
-const totalSupplyKey = 'totalSupply';
+const nameKey = 'ANKIT';
+const symbolKey = 'ANK';
+const decimalsKey = '18';
+const totalSupplyKey = '10000';
 
 class TokenERC20Contract extends Contract {
 
